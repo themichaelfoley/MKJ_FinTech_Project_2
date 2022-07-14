@@ -1,5 +1,8 @@
 # Team 3, Project 2: Michael Foley, Karen Garcia, Jason Raeppold
 
+# Drink Up or Up in SMOTE?
+![Jim_e_pig]()
+
 ## Alcohol Vs. Cannabis Stocks- A Revised Outlook Using Machine Learning Models 
 
 [Long Trading Algo Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/BUD_long_algo.ipynb) 
