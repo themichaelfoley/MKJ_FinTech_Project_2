@@ -1,5 +1,6 @@
 # Team 3, Project 2: Michael Foley, Karen Garcia, Jason Raeppold
 
+![gp2](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmetro.co.uk%2Fwp-content%2Fuploads%2F2017%2F06%2F542020087.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0px%252C59px%252C1254px%252C659px%26resize%3D1200%252C630)
 
 ## Alcohol Vs. Cannabis Stocks- A Revised Outlook Using Machine Learning Models 
 
@@ -15,7 +16,7 @@
 
 [Linear Regression Model Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/JRPROJ2RF07032022.ipynb)
 
-[Presentation Slides and Plots]()
+[Presentation Slides and Plots](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/Project%202%20SLIDES%20JRFINALFINALV1.pptx)
 
 ## Abstract
 For our second project, we decided to repurpose the data we presented in project one to build scalable machine learning models that can trade and predict 
