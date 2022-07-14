@@ -1,7 +1,5 @@
 # Team 3, Project 2: Michael Foley, Karen Garcia, Jason Raeppold
 
-# Drink Up or Up in SMOTE?
-![Jim_e_pig]()
 
 ## Alcohol Vs. Cannabis Stocks- A Revised Outlook Using Machine Learning Models 
 
@@ -13,9 +11,9 @@
 
 [LSTM Model 2 Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/LSTM_model_2.ipynb) 
 
-[Random Forest Model Code]()
+[Random Forest Model Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/PROJECT2JRFINAL.ipynb)
 
-[Linear Regression Model Code]()
+[Linear Regression Model Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/JRPROJ2RF07032022.ipynb)
 
 [Presentation Slides and Plots]()
 
