@@ -2,6 +2,18 @@
 
 ## Alcohol Vs. Cannabis Stocks- A Revised Outlook Using Machine Learning Models 
 
+[Long Trading Algo Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/BUD_long_algo.ipynb) 
+
+[Short Trading Algo Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/VFF_short_algo.ipynb) 
+
+[LSTM Model 1 Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/LSTM_model_1.ipynb) 
+
+[LSTM Model 2 Code](https://github.com/themichaelfoley/MKJ_FinTech_Project_2/blob/main/Files/LSTM_model_2.ipynb) 
+
+[Random Forest Model Code]()
+
+[Presentation Slides and Plots]()
+
 ## Abstract
 For our second project, we decided to repurpose the data we presented in project one to build scalable machine learning models that can trade and predict 
 stocks prices with limited price data. We wanted to see how our selected stocks would behave and if we expected to see similarities in the outcomes we obtained for project one now that we have a better understanding on how and why our data behaved the way it did. We focused on Trading Algorithms, Linear Regression, and LSTM Models which are all methods used to predict and deploy time series data in order to develop predictions on stock votatility. 
